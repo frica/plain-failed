@@ -1,6 +1,6 @@
 # Works with Python 2.7.5 and the standard lib
 # Usage:
-# python resultsconverter.py http://my_server/job/my_project/run_nbr/testReport/api/json
+# python plain-failed.py http://my_server/job/my_project/run_nbr/testReport/api/json
 
 import json
 import urllib2
