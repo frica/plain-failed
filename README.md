@@ -11,3 +11,5 @@ Well sometimes, it happens and those days I want to get a plain list of issues, 
 If you're lazy like me, you don't wanna click on every failing test to see the error details and possible claims.
 
 So there comes the script :)
+
+NB: it uses the urllib2 lib so it won't work in Python 3
